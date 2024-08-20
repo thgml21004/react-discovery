@@ -1,0 +1,63 @@
+body {
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+dl, ol, ul {
+    margin: 0;
+    padding: 0;
+}
+
+// 부트스트랩 스타일 초기화
+.row {
+    margin: 0;
+}
+
+.row > * {
+    padding: 0;
+}
+
+// 공통 클래스
+.noto-sans-kr {
+    font-family: "Noto Sans KR", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.container-1820 {
+    max-width: 1820px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container-1620 {
+    max-width: 1620px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+// 공통 스타일
+section {
+    margin-bottom: 170px;
+}
+
+.swiper-scrollbar {
+    background: rgba(0, 0, 0, 0.1);
+    height: 4px;
+    border-radius: 2px;
+  }
+  
+  .swiper-scrollbar-drag {
+    background: #007aff;
+    border-radius: 2px;
+  }

@@ -2,7 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import{ BrowserRouter, Routes, Route} from 'react-router-dom';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './style/common.scss';
+import './style/style.scss';
+
+import 'swiper/css';
+import 'swiper/css/scrollbar';
+
 import Hd from './component/Header';
 import Main from './component/Main';
 import Ft from './component/Footer';
