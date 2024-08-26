@@ -3,16 +3,25 @@ import { Link } from 'react-router-dom';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Scrollbar } from 'swiper/modules';
 
-import { Title } from '../styleComponent';
+import { Title, TabList } from '../styleComponent';
 
 
 function NewPd() {
     return (
         <section id="new-product">
             <div className="container-1620">
-                <Title>
-                    <h3 className="more"><Link to="#">만나는 신상</Link></h3>
-                </Title>
+                <div className="d-flex justify-content-between align-items-center">
+                    <Title>
+                        <h3 className="more"><Link to="#">만나는 신상</Link></h3>
+                    </Title>
+                    <TabList>
+                        <li>MEN</li>
+                        <li className="active">WOMEN</li>
+                        <li>SHOES</li>
+                        <li>ACC</li>
+                        <li>KIDS</li>
+                    </TabList>
+                </div>
                 <div className="item-wrap">
                     <Swiper
                             spaceBetween={12}

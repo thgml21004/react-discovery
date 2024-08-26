@@ -7,6 +7,7 @@ import './style/common.scss';
 import './style/style.scss';
 
 import 'swiper/css';
+import 'swiper/css/navigation';
 import 'swiper/css/scrollbar';
 
 import Hd from './component/Header';

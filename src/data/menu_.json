@@ -1,0 +1,408 @@
+[
+    {
+        "gnbnm": "MEN",
+        "gnblink": "",
+        "prnum": "",
+        "cateno": "1",
+        "listno": ""
+    },
+    {
+        "gnbnm": "상의",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "1",
+        "listno": ""
+    },
+    {
+        "gnbnm": "반팔티",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "1",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "카라티",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "1",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "하의",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "2",
+        "listno": ""
+    },
+    {
+        "gnbnm": "기능성쇼츠",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "2",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "숏팬츠",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "2",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "트레이닝 셋업",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "3",
+        "listno": ""
+    },
+    {
+        "gnbnm": "트레이닝 상의",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "3",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "트레이닝 하의",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "3",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "아우터",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "4",
+        "listno": ""
+    },
+    {
+        "gnbnm": "고어텍스자켓",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "4",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "바람막이",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "4",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "WOMEN",
+        "gnblink": "",
+        "prnum": "",
+        "cateno": "2",
+        "listno": ""
+    },
+    {
+        "gnbnm": "상의",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "1",
+        "listno": ""
+    },
+    {
+        "gnbnm": "반팔티",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "1",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "카라티",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "1",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "하의",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "2",
+        "listno": ""
+    },
+    {
+        "gnbnm": "기능성쇼츠",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "2",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "숏팬츠",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "2",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "트레이닝 셋업",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "3",
+        "listno": ""
+    },
+    {
+        "gnbnm": "트레이닝 상의",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "3",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "트레이닝 하의",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "3",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "아우터",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "4",
+        "listno": ""
+    },
+    {
+        "gnbnm": "고어텍스자켓",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "4",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "바람막이",
+        "gnblink": "",
+        "prnum": "1",
+        "cateno": "4",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "SHOES",
+        "gnblink": "",
+        "prnum": "",
+        "cateno": "3",
+        "listno": ""
+    },
+    {
+        "gnbnm": "라이프",
+        "gnblink": "",
+        "prnum": "3",
+        "cateno": "1",
+        "listno": ""
+    },
+    {
+        "gnbnm": "하이킹",
+        "gnblink": "",
+        "prnum": "3",
+        "cateno": "1",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "러닝",
+        "gnblink": "",
+        "prnum": "3",
+        "cateno": "1",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "컬렉션",
+        "gnblink": "",
+        "prnum": "3",
+        "cateno": "2",
+        "listno": ""
+    },
+    {
+        "gnbnm": "샌디",
+        "gnblink": "",
+        "prnum": "3",
+        "cateno": "2",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "카디프",
+        "gnblink": "",
+        "prnum": "3",
+        "cateno": "2",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "KIDS",
+        "gnblink": "",
+        "prnum": "3",
+        "cateno": "3",
+        "listno": ""
+    },
+    {
+        "gnbnm": "운동화",
+        "gnblink": "",
+        "prnum": "3",
+        "cateno": "3",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "슬리퍼/샌들",
+        "gnblink": "",
+        "prnum": "3",
+        "cateno": "3",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "ACC",
+        "gnblink": "",
+        "prnum": "",
+        "cateno": "4",
+        "listno": ""
+    },
+    {
+        "gnbnm": "가방",
+        "gnblink": "",
+        "prnum": "4",
+        "cateno": "1",
+        "listno": ""
+    },
+    {
+        "gnbnm": "백팩",
+        "gnblink": "",
+        "prnum": "4",
+        "cateno": "1",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "메신저백",
+        "gnblink": "",
+        "prnum": "4",
+        "cateno": "1",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "모자",
+        "gnblink": "",
+        "prnum": "4",
+        "cateno": "2",
+        "listno": ""
+    },
+    {
+        "gnbnm": "볼캡",
+        "gnblink": "",
+        "prnum": "4",
+        "cateno": "2",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "햇",
+        "gnblink": "",
+        "prnum": "4",
+        "cateno": "2",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "용품",
+        "gnblink": "",
+        "prnum": "4",
+        "cateno": "3",
+        "listno": ""
+    },
+    {
+        "gnbnm": "양말",
+        "gnblink": "",
+        "prnum": "4",
+        "cateno": "3",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "KIDS",
+        "gnblink": "",
+        "prnum": "",
+        "cateno": "5",
+        "listno": ""
+    },
+    {
+        "gnbnm": "상의",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "1",
+        "listno": ""
+    },
+    {
+        "gnbnm": "반팔티",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "1",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "카라티",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "1",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "하의",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "2",
+        "listno": ""
+    },
+    {
+        "gnbnm": "기능성쇼츠",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "2",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "숏팬츠",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "2",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "트레이닝 셋업",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "3",
+        "listno": ""
+    },
+    {
+        "gnbnm": "트레이닝 상의",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "3",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "트레이닝 하의",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "3",
+        "listno": "2"
+    },
+    {
+        "gnbnm": "아우터",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "4",
+        "listno": ""
+    },
+    {
+        "gnbnm": "고어텍스자켓",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "4",
+        "listno": "1"
+    },
+    {
+        "gnbnm": "바람막이",
+        "gnblink": "",
+        "prnum": "5",
+        "cateno": "4",
+        "listno": "2"
+    }
+]

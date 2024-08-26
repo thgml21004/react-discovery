@@ -1,19 +1,15 @@
-import React from 'react'
+import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../img/logo.svg'
+import logo from '../img/logo.svg';
+import Navi from './main/hd/Navi';
 
 function Header() {
+
     return (
         <div id="header">
             <div className="container-1820 inner">
                 <h1 className="logo"><a href="/"><img src={logo} alt="디스커버리 로고" /></a></h1>
-                <ul className="gnb">
-                    <li><Link to="/">MEN</Link></li>
-                    <li><Link to="/">WOMEN</Link></li>
-                    <li><Link to="/">SHOES</Link></li>
-                    <li><Link to="/">ACC</Link></li>
-                    <li><Link to="/">KIDS</Link></li>
-                </ul>
+                <Navi></Navi>
                 <ul className="promotion-menu">
                     <li><Link to="/">OUTLET</Link></li>
                     <li><Link to="/">PROMOTION</Link></li>
@@ -33,7 +29,7 @@ function Header() {
                 </ul>
             </div>
         </div>
-    )
+    );
 }
 
-export default Header
+export default Header;

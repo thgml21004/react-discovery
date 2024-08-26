@@ -23,19 +23,30 @@ export const Title = styled.div`
             }
         }
     }
-    p {
-        position: relative;
+`;
+
+export const TabList = styled.ul`    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    li {
         font-size: 15px;
-        font-weight: 400;
-        line-height: 23px;
-        color: #666;
-        &::after {
-            content: "";
-            display: block;
-            width: 50px;
-            height: 4px;
-            background-color: #000;
-            margin-top: 150px;
+        padding: 3px 12px;
+        border: 1px solid #19355B;
+        border-radius: 15px;
+        color: #19355B;
+        margin-left: 8px;
+        cursor: pointer;
+        &:first-child {
+            margin-left: 0;
+        }
+        &:hover, &.active {
+            background: #19355B;
+            color: #fff;
+
+        }
+        &.active {
+            cursor: default;
         }
     }
-`;
+`
