@@ -1,7 +1,7 @@
 [
     {
       "name": "MEN",
-      "url": "",
+      "url": "a",
       "sub_menu": [
         {
           "name": "상의",
@@ -63,7 +63,7 @@
     },
     {
       "name": "WOMEN",
-      "url": "",
+      "url": "result",
       "sub_menu": [
         {
           "name": "상의",

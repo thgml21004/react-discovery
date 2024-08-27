@@ -12,6 +12,7 @@ import 'swiper/css/scrollbar';
 
 import Hd from './component/Header';
 import Main from './component/Main';
+import Result from './component/sub/Result';
 import Ft from './component/Footer';
 import NotFound from './component/NotFound';
 
@@ -21,6 +22,7 @@ root.render(
     <Hd />
     <Routes>
       <Route path="/" element={<Main />} />
+      <Route path="/result" element={<Result/>} />
       <Route path="*" element={<NotFound />} />
     </Routes>
     <Ft />
